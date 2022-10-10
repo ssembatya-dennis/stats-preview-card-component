@@ -17,10 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-gH19FVt6Dr)
+- Live Site URL: [Stats preview card component challenge #live site](https://stats-preview-card-component-cyan-chi.vercel.app/)
 
 ### Built with
 
